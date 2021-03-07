@@ -1,0 +1,4 @@
+﻿  s1e6.c
+E:\Project\C_Study3\C_Study3\s1e6.c(7,18): warning C4305: “=”: 从“double”到“float”截断
+E:\Project\C_Study3\C_Study3\s1e6.c(8,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  C_Study3.vcxproj -> E:\Project\C_Study3\Debug\C_Study3.exe
