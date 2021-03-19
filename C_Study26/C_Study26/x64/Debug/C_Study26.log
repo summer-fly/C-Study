@@ -1,0 +1,3 @@
+﻿  d26e1.c
+E:\Project\C_Study26\C_Study26\d26e1.c(70,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  C_Study26.vcxproj -> E:\Project\C_Study26\x64\Debug\C_Study26.exe
