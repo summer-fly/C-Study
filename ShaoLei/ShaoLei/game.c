@@ -87,7 +87,7 @@ void FindMine(char mine[ROWS][COLS], char show[ROWS][COLS], int row, int col)
 			//踩雷
 			if (mine[x][y] == '1')
 			{
-				printf("很遗憾，你被炸死了！");
+				printf("很遗憾，你被炸死了！\n");
 				DisplayBoard(mine,row,col);
 				break;
 			}
