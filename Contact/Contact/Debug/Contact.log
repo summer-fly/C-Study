@@ -1,0 +1,7 @@
+﻿  Contact.c
+E:\Project\Contact\Contact\Contact.c(109,25): warning C4090: “函数”: 不同的“const”限定符
+E:\Project\Contact\Contact\Contact.c(129,36): warning C4028: 形参 1 与声明不同
+  test.c
+E:\Project\Contact\Contact\test.c(44,22): warning C4133: “函数”: 从“Contact *”到“Constact *”的类型不兼容
+  正在生成代码...
+  Contact.vcxproj -> E:\Project\Contact\Debug\Contact.exe
