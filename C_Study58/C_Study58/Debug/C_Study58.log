@@ -1,0 +1,3 @@
+﻿  d58e1.c
+E:\Project\C_Study58\C_Study58\d58e1.c(125): warning C4172: 返回局部变量或临时变量的地址: p
+  C_Study58.vcxproj -> E:\Project\C_Study58\Debug\C_Study58.exe
